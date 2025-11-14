@@ -5,28 +5,53 @@
         "details": [
             {
                 "title": "Wayang Kulit",
-                "images": ["...", "..."],
-                "description": "Wayang Kulit merupakan seni tradisional Indonesia yang terbuat dari kulit kerbau atau sapi yang telah dikeringkan, diukir, dan diberi warna dengan detail yang indah. Disebut “Wayang Kulit” karena bahan utamanya adalah kulit, sedangkan kata “wayang” berarti bayangan, merujuk pada bayangan tokoh-tokoh wayang yang tampak saat dimainkan dengan cahaya. Wayang Kulit biasanya menggambarkan kisah-kisah dari epos Ramayana dan Mahabharata, yang sarat makna kehidupan dan nilai moral. Setiap tokoh wayang memiliki bentuk, warna, dan ekspresi yang mencerminkan sifat dan karakter tertentu, seperti kebaikan, kejahatan, kebijaksanaan, dan keserakahan. Selain bernilai seni tinggi, Wayang Kulit juga mengandung filosofi mendalam tentang kehidupan manusia dan menjadi simbol warisan budaya yang memperkaya identitas bangsa Indonesia."
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_kulit_1.png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_kulit_2.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_kulit_3.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_kulit_4.jpg"
+                ],
+                "description": "Wayang Kulit merupakan seni tradisional Indonesia yang terbuat dari kulit kerbau atau sapi yang telah dikeringkan, diukir, dan diberi warna dengan detail yang indah. Disebut \"Wayang Kulit\" karena bahan utamanya adalah kulit, sedangkan kata \"wayang\" berarti bayangan, merujuk pada bayangan tokoh-tokoh wayang yang tampak saat dimainkan dengan cahaya. Wayang Kulit biasanya menggambarkan kisah-kisah dari epos Ramayana dan Mahabharata, yang sarat makna kehidupan dan nilai moral. Setiap tokoh wayang memiliki bentuk, warna, dan ekspresi yang mencerminkan sifat dan karakter tertentu, seperti kebaikan, kejahatan, kebijaksanaan, dan keserakahan. Selain bernilai seni tinggi, Wayang Kulit juga mengandung filosofi mendalam tentang kehidupan manusia dan menjadi simbol warisan budaya yang memperkaya identitas bangsa Indonesia."
             },
             {
                 "title": "Wayang Golek",
-                "images": ["...", "..."],
-                "description": "Wayang Golek adalah seni tradisional khas Jawa Barat yang menggunakan boneka kayu berbentuk tiga dimensi sebagai tokoh utamanya. Nama “golek” berarti boneka kayu yang digerakkan, karena setiap wayang dibuat dari kayu dan dioperasikan dengan batang pengendali pada tubuh dan tangan. Wayang Golek biasanya menampilkan cerita dari epos Mahabharata, Ramayana, atau kisah lokal seperti Cepot dan Dawala yang sarat nilai moral dan humor. Selain sebagai hiburan, Wayang Golek juga berfungsi sebagai media pendidikan dan penyampai pesan sosial, mencerminkan kearifan lokal serta menjadi simbol budaya masyarakat Sunda yang kaya akan seni dan filosofi kehidupan."
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_golek_1.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_golek_2.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_golek_3.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_golek_4.jpg"
+                ],
+                "description": "Wayang Golek adalah seni tradisional khas Jawa Barat yang menggunakan boneka kayu berbentuk tiga dimensi sebagai tokoh utamanya. Nama \"golek\" berarti boneka kayu yang digerakkan, karena setiap wayang dibuat dari kayu dan dioperasikan dengan batang pengendali pada tubuh dan tangan. Wayang Golek biasanya menampilkan cerita dari epos Mahabharata, Ramayana, atau kisah lokal seperti Cepot dan Dawala yang sarat nilai moral dan humor. Selain sebagai hiburan, Wayang Golek juga berfungsi sebagai media pendidikan dan penyampai pesan sosial, mencerminkan kearifan lokal serta menjadi simbol budaya masyarakat Sunda yang kaya akan seni dan filosofi kehidupan."
             },
             {
                 "title": "Wayang Wong",
-                "images": ["...", "..."],
-                "description": "Wayang Orang adalah seni pertunjukan tradisional Indonesia di mana manusia berperan sebagai tokoh wayang. Kata “wong” berarti “orang”, sehingga Wayang Orang menggambarkan wayang yang diperankan langsung oleh manusia, bukan boneka. Dalam pertunjukannya, para pemain mengenakan kostum megah, rias wajah khas wayang, serta gerakan tari dan dialog yang teratur, diiringi musik gamelan. Cerita yang dibawakan umumnya berasal dari epos Ramayana dan Mahabharata, menampilkan tokoh-tokoh seperti Rama, Sinta, Arjuna, dan Rahwana. Wayang Orang tidak only menjadi hiburan, tetapi juga sarana pendidikan moral dan spiritual, yang mengajarkan nilai-nilai luhur seperti keberanian, kejujuran, dan kesetiaan. Sebagai perpaduan antara seni tari, musik, dan drama, Wayang Orang mencerminkan keindahan, kehalusan budi, dan kebijaksanaan dalam budaya Jawa."
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_wong_1.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_wong_2.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_wong_3.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_wong_4.jpg"
+                ],
+                "description": "Wayang Orang adalah seni pertunjukan tradisional Indonesia di mana manusia berperan sebagai tokoh wayang. Kata \"wong\" berarti \"orang\", sehingga Wayang Orang menggambarkan wayang yang diperankan langsung oleh manusia, bukan boneka. Dalam pertunjukannya, para pemain mengenakan kostum megah, rias wajah khas wayang, serta gerakan tari dan dialog yang teratur, diiringi musik gamelan. Cerita yang dibawakan umumnya berasal dari epos Ramayana dan Mahabharata, menampilkan tokoh-tokoh seperti Rama, Sinta, Arjuna, dan Rahwana. Wayang Orang tidak only menjadi hiburan, tetapi juga sarana pendidikan moral dan spiritual, yang mengajarkan nilai-nilai luhur seperti keberanian, kejujuran, dan kesetiaan. Sebagai perpaduan antara seni tari, musik, dan drama, Wayang Orang mencerminkan keindahan, kehalusan budi, dan kebijaksanaan dalam budaya Jawa."
             },
             {
                 "title": "Wayang Beber",
-                "images": ["...", "..."],
-                "description": "Wayang Beber adalah salah satu bentuk wayang tertua di Indonesia yang berasal dari Jawa Tengah, khususnya daerah Pacitan dan Wonosari. Berbeda dari wayang lain, Wayang Beber tidak menggunakan boneka, melainkan lembaran kain atau kertas panjang yang berisi lukisan adegan cerita yang digulung (beber berarti “membuka gulungan”). Dalam pertunjukannya, dalang akan membuka gulungan secara perlahan sambil menjelaskan alur cerita dan dialog tokoh-tokohnya. Kisah yang ditampilkan biasanya berasal dari legenda Panji, seperti cerita Panji Asmarabangun dan Dewi Sekartaji, yang mengandung pesan tentang cinta, kesetiaan, dan perjuangan hidup. Selain berfungsi sebagai hiburan, Wayang Beber juga memiliki nilai sejarah, spiritual, dan pendidikan moral, karena menggambarkan cara masyarakat Jawa kuno dalam menyampaikan ajaran kehidupan melalui seni visual dan tutur. Hingga kini, Wayang Beber diakui sebagai warisan budaya langka yang mencerminkan awal perkembangan seni pewayangan di Nusantara."
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_beber_1.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_beber_2.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_beber_3.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_beber_4.jpg"
+                ],
+                "description": "Wayang Beber adalah salah satu bentuk wayang tertua di Indonesia yang berasal dari Jawa Tengah, khususnya daerah Pacitan dan Wonosari. Berbeda dari wayang lain, Wayang Beber tidak menggunakan boneka, melainkan lembaran kain atau kertas panjang yang berisi lukisan adegan cerita yang digulung (beber berarti \"membuka gulungan\"). Dalam pertunjukannya, dalang akan membuka gulungan secara perlahan sambil menjelaskan alur cerita dan dialog tokoh-tokohnya. Kisah yang ditampilkan biasanya berasal dari legenda Panji, seperti cerita Panji Asmarabangun dan Dewi Sekartaji, yang mengandung pesan tentang cinta, kesetiaan, dan perjuangan hidup. Selain berfungsi sebagai hiburan, Wayang Beber juga memiliki nilai sejarah, spiritual, dan pendidikan moral, karena menggambarkan cara masyarakat Jawa kuno dalam menyampaikan ajaran kehidupan melalui seni visual dan tutur. Hingga kini, Wayang Beber diakui sebagai warisan budaya langka yang mencerminkan awal perkembangan seni pewayangan di Nusantara."
             },
             {
                 "title": "Wayang Potehi",
-                "images": ["...", "..."],
-                "description": "Wayang Potehi adalah seni wayang tradisional berasal dari Tiongkok yang kemudian berkembang dan menjadi bagian dari budaya Tionghoa-Indonesia, khususnya di daerah Jawa Timur seperti Surabaya, Semarang, dan Gresik. Kata “potehi” berasal dari bahasa Hokkien, yaitu “po” (kain), “te” (kantong), dan “hi” (wayang), sehingga secara harfiah berarti wayang dari kantong kain. Wayang ini berbentuk boneka tangan yang digerakkan dari bawah oleh dalang menggunakan jari-jarinya, mirip dengan boneka tangan modern. Cerita yang dibawakan biasanya berasal dari kisah klasik Tiongkok, seperti legenda Sam Kok (Tiga Kerajaan) atau cerita kepahlawanan yang menonjolkan nilai kejujuran, keberanian, dan kesetiaan. Seiring waktu, Wayang Potehi juga sering disesuaikan dengan budaya lokal Indonesia, menggunakan bahasa daerah dan musik gamelan. Selain berfungsi sebagai hiburan, Wayang Potehi memiliki peran spiritual dan sosial, karena sering dipentaskan di klenteng sebagai bagian dari upacara keagamaan dan juga sebagai simbol akulturasi budaya antara Tionghoa dan Nusantara yang harmonis."
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_potehi_1.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_potehi_2.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_potehi_3.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/jenis_wayang/wayang_potehi_4.jpg"
+                ],
+                "description": "Wayang Potehi adalah seni wayang tradisional berasal dari Tiongkok yang kemudian berkembang dan menjadi bagian dari budaya Tionghoa-Indonesia, khususnya di daerah Jawa Timur seperti Surabaya, Semarang, dan Gresik. Kata \"potehi\" berasal dari bahasa Hokkien, yaitu \"po\" (kain), \"te\" (kantong), dan \"hi\" (wayang), sehingga secara harfiah berarti wayang dari kantong kain. Wayang ini berbentuk boneka tangan yang digerakkan dari bawah oleh dalang menggunakan jari-jarinya, mirip dengan boneka tangan modern. Cerita yang dibawakan biasanya berasal dari kisah klasik Tiongkok, seperti legenda Sam Kok (Tiga Kerajaan) atau cerita kepahlawanan yang menonjolkan nilai kejujuran, keberanian, dan kesetiaan. Seiring waktu, Wayang Potehi juga sering disesuaikan dengan budaya lokal Indonesia, menggunakan bahasa daerah dan musik gamelan. Selain berfungsi sebagai hiburan, Wayang Potehi memiliki peran spiritual dan sosial, karena sering dipentaskan di klenteng sebagai bagian dari upacara keagamaan dan juga sebagai simbol akulturasi budaya antara Tionghoa dan Nusantara yang harmonis."
             }
         ]
     },
@@ -36,18 +61,30 @@
         "details": [
             {
                 "title": "Lakon Ramayana",
-                "images": ["...", "..."],
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/lakon/lakon_ramayana_1.png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/lakon/lakon_ramayana_2.png"
+                ],
                 "description": "Lakon Ramayana merupakan kisah pewayangan yang bersumber dari epos Hindu kuno tentang perjuangan Rama, pangeran dari Ayodhya, dalam menyelamatkan istrinya Dewi Sinta yang diculik oleh Rahwana, raja Alengka. Bersama adiknya Laksmana dan sekutunya Hanoman serta pasukan kera pimpinan Sugriwa, Rama berjuang menegakkan kebenaran dan mengalahkan kejahatan. Cerita ini menggambarkan nilai-nilai luhur seperti kesetiaan, keberanian, kejujuran, dan cinta sejati, serta menjadi simbol kemenangan dharma (kebenaran) atas adharma (kejahatan). Dalam tradisi pewayangan Indonesia, lakon Ramayana tidak only menjadi tontonan, tetapi juga tuntunan moral dan spiritual yang mencerminkan kebijaksanaan hidup"
             },
             {
                 "title": "Lakon Mahabharata",
-                "images": ["...", "..."],
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/lakon/lakon_mahabharata_1.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/lakon/lakon_mahabharata_2.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/lakon/lakon_mahabharata_3.png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/lakon/lakon_mahabharata_4.png"
+                ],
                 "description": "Lakon Mahabharata adalah kisah besar pewayangan yang bersumber dari epos Hindu kuno Mahabharata, menceritakan perjuangan dan peperangan antara dua keluarga bangsawan, Pandawa dan Kurawa, dalam memperebutkan tahta kerajaan Hastinapura. Cerita ini berpusat pada nilai dharma (kebenaran dan keadilan) yang dijunjung oleh para Pandawa, terutama Yudistira, Bima, Arjuna, Nakula, dan Sadewa, melawan keserakahan dan keangkuhan Kurawa yang dipimpin Duryodana. Konflik ini berpuncak pada perang besar di Kurukshetra, di mana banyak tokoh menunjukkan kesetiaan, keberanian, dan pengorbanan. Lakon Mahabharata tidak only menggambarkan peperangan fisik, tetapi juga pertarungan batin manusia antara nafsu dan kebajikan. Kisah ini menjadi sumber pelajaran moral dan spiritual yang mendalam, menegaskan bahwa kebenaran dan keikhlasan hati akan selalu menjadi kemenangan sejati."
             },
             {
                 "title": "Lakon Semar Mbangun Kahyangan",
-                "images": ["...", "..."],
-                "description": "Di Bali, Lakon Semar Mbangun Kahyangan dikenal dengan nama “Lakon Twalen Mabangun Kayangan”. Tokoh Semar dalam pewayangan Jawa memiliki padanan dalam budaya Bali, yaitu Twalen, yang juga berperan sebagai punakawan bijak, lucu, namun memiliki kekuatan spiritual tinggi. Dalam lakon ini, Twalen membantu para dewa memulihkan Kayangan (Kahyangan) yang kacau karena kesombongan dan perebutan kekuasaan. Dengan kebijaksanaannya, Twalen menegakkan kembali keseimbangan antara dunia para dewa dan manusia, mengajarkan nilai kesederhanaan, kebijaksanaan, dan ketulusan hati sebagai sumber kekuatan sejati. Lakon ini sarat makna filosofi Hindu Bali tentang dharma (kebenaran), rwa bhineda (keseimbangan antara baik dan buruk), serta ajaran Tri Hita Karana, yaitu pentingnya menjaga keharmonisan antara manusia, alam, dan Tuhan agar kehidupan tetap selaras."
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/lakon/lakon_samar_1.png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/lakon/lakon_samar_2.png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/lakon/lakon_semar_3.png"
+                ],
+                "description": "Di Bali, Lakon Semar Mbangun Kahyangan dikenal dengan nama \"Lakon Twalen Mabangun Kayangan\". Tokoh Semar dalam pewayangan Jawa memiliki padanan dalam budaya Bali, yaitu Twalen, yang juga berperan sebagai punakawan bijak, lucu, namun memiliki kekuatan spiritual tinggi. Dalam lakon ini, Twalen membantu para dewa memulihkan Kayangan (Kahyangan) yang kacau karena kesombongan dan perebutan kekuasaan. Dengan kebijaksanaannya, Twalen menegakkan kembali keseimbangan antara dunia para dewa dan manusia, mengajarkan nilai kesederhanaan, kebijaksanaan, dan ketulusan hati sebagai sumber kekuatan sejati. Lakon ini sarat makna filosofi Hindu Bali tentang dharma (kebenaran), rwa bhineda (keseimbangan antara baik dan buruk), serta ajaran Tri Hita Karana, yaitu pentingnya menjaga keharmonisan antara manusia, alam, dan Tuhan agar kehidupan tetap selaras."
             }
         ]
     },
@@ -57,22 +94,37 @@
         "details": [
             {
                 "title": "Ki Nartosabdo",
-                "images": ["...", "..."],
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/tokoh/tokoh_Nartosabdo_2.png"
+                ],
                 "description": "Ki Nartosabdo (1925–1985) adalah seorang maestro dalang dan budayawan legendaris dari Jawa Tengah. Ia dikenal luas sebagai dalang inovatif yang berhasil memodernisasi seni pertunjukan wayang kulit tanpa meninggalkan pakem (aturan baku) tradisionalnya. Ia menciptakan ribuan komposisi musik karawitan (gendhing) dan lagu (tembang) Jawa yang hingga kini populer, menjadikannya salah satu dalang paling berpengaruh di abad ke-20."
             },
             {
                 "title": "Ki Manteb Sudharsono",
-                "images": ["...", "..."],
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/tokoh/tokoh_Sudharsono_3  (1).png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/tokoh/tokoh_Sudharsono_3  (2).png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/tokoh/tokoh_Sudharsono_3  (3).png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/tokoh/tokoh_Sudharsono_3  (4).png"
+                ],
                 "description": "Dijuluki \"Dalang Setan\" karena kecepatan dan keterampilan luar biasanya dalam memainkan boneka wayang, Ki Manteb Sudharsono (1948–2021) adalah dalang kontemporer yang merevolusi pertunjukan wayang. Ia memperkenalkan berbagai teknik teatrikal modern, seperti efek pencahayaan dan suara, serta dikenal mahir dalam sabetan (gerakan wayang) yang membuat adegan peperangan menjadi hidup dan dinamis, menarik minat penonton muda secara massal."
             },
             {
                 "title": "I Wayan Wija",
-                "images": ["...", "..."],
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/tokoh/tokoh_wayan wija_ 1.png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/tokoh/tokoh_wayan wija_2.png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/tokoh/tokoh_wayan wija_3.png"
+                ],
                 "description": "I Wayan Wija adalah dalang maestro dari Bali yang terkenal karena eksplorasi artistik dan inovasinya. Selain menguasai pakem wayang kulit tradisional Bali yang sakral, ia dikenal karena menciptakan \"Wayang Listrik\" dan mengembangkan cerita-cerita baru seperti Wayang Tantri. Karyanya telah diakui secara internasional, dan ia sering mementaskan wayang di berbagai festival seni dunia, menunjukkan fleksibilitas seni pedalangan Bali."
             },
             {
                 "title": "I Wayan Nardayana (Dalang Cenk Blonk)",
-                "images": ["...", "..."],
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/tokoh/tokoh_Nardayana_1.png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/tokoh/tokoh_Nardayana_2.png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/tokoh/tokoh_Nardayana_3.png"
+                ],
                 "description": "I Wayan Nardayana, atau yang akrab disapa Dalang Cenk Blonk, mewakili generasi dalang kontemporer yang sukses mempopulerkan wayang kulit melalui pendekatan yang segar. Ia dikenal karena humornya yang cerdas, penggunaan bahasa Bali sehari-hari, dan kemampuannya menyisipkan kritik sosial serta isu-isu terkini ke dalam lakon wayang, membuatnya menjadi dalang yang paling banyak diminati untuk pementasan hiburan dan upacara adat di Bali saat ini."
             }
         ]
@@ -83,17 +135,28 @@
         "details": [
             {
                 "title": "Wayang Lemah",
-                "images": ["...", "..."],
+                "images": [],
                 "description": "Wayang Lemah adalah jenis pertunjukan wayang yang digelar pada siang hari, biasanya tanpa kelir (layar) dan tanpa lampu blencong. Pagelaran ini bersifat suci dan ritual, sering digunakan dalam upacara keagamaan di Bali seperti odalan, potong gigi, atau manusa yadnya. Fungsinya bukan untuk hiburan, melainkan sebagai media spiritual dan penyucian diri, di mana dalang berperan sebagai pemimpin upacara yang menyampaikan ajaran dharma melalui cerita wayang."
             },
             {
                 "title": "Wayang Peteng",
-                "images": ["...", "..."],
+                "images": [],
                 "description": "Wayang Peteng adalah pertunjukan wayang yang diselenggarakan pada malam hari dengan kelir dan lampu blencong sebagai sumber cahaya. Di Bali, Wayang Peteng biasanya ditampilkan dalam upacara Dewa Yadnya seperti odalan di pura, atau pada Manusa Yadnya seperti tiga bulanan dan pernikahan, serta Pitra Yadnya seperti ngaben dan memukur. Pertunjukan ini berfungsi sebagai hiburan rohani sekaligus media penyampaian ajaran moral dan spiritual, menghadirkan suasana sakral dan artistik dalam balutan tradisi Bali."
             },
             {
                 "title": "Wayang Babad",
-                "images": ["...", "..."],
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/pagelaran/babad_1 (1).png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/pagelaran/babad_1 (2).png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/pagelaran/babad_1 (3).png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/pagelaran/babad_1 (4).png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/pagelaran/babad_1 (5).png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/pagelaran/babad_1 (6).png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/pagelaran/babad_1 (7).png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/pagelaran/babad_1 (8).png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/pagelaran/babad_1 (9).png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/pagelaran/babad_1 (10).png"
+                ],
                 "description": "Wayang Babad merupakan jenis wayang yang mengisahkan sejarah dan asal-usul (babad) suatu daerah, kerajaan, atau tokoh penting di Bali dan Nusantara. Ceritanya sering digunakan untuk memperkenalkan identitas, nilai kepahlawanan, dan leluhur masyarakat. Dalam konteks Bali, Wayang Babad juga berperan menjaga ingatan kolektif dan kesinambungan tradisi, menjadikannya media penting untuk memahami perjalanan sejarah dan budaya daerah."
             }
         ]
