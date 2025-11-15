@@ -172,8 +172,19 @@
     },
     {
         "title": "Gamelan",
-        "cover": "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/pagelaran/wayang_babad_3.png",
+        "cover": "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/gamelan/gamelan_1.png",
         "description": "Gamelan adalah ansambel musik tradisional Indonesia yang terdiri dari berbagai instrumen perkusi, membranofon, dan logam, seperti gong, kenong, bonang, saron, gender, kendang, dan ceng-ceng. Gamelan berperan sebagai pengiring utama dalam pertunjukan seni tradisional, termasuk wayang, tari, dan upacara keagamaan. Selain fungsi musik, gamelan memiliki makna filosofis dan spiritual, karena setiap alat, nada, dan ritmenya diatur untuk menciptakan harmoni dan keseimbangan, mencerminkan konsep rwa bhineda (keseimbangan antara baik dan buruk) dalam kehidupan. Dalam pertunjukan wayang, gamelan tidak only mengiringi adegan dan dialog, tetapi juga membangun suasana emosional, menandai perubahan tempo cerita, dan menekankan nilai moral maupun spiritual yang disampaikan oleh dalang. Di Bali, gamelan memiliki variasi khusus seperti Gamelan Gender Wayang untuk pertunjukan wayang kulit dan Gamelan Gong Kebyar untuk upacara dan hiburan, sementara di Jawa terdapat Gamelan Jawa yang halus dan melodius, digunakan untuk Wayang Kulit dan Wayang Orang. Gamelan menjadi simbol kekayaan budaya, seni, dan filosofi kehidupan Nusantara yang terus dilestarikan hingga kini.",
-        "details": []
+        "details": [
+            {
+                "title": "Gamelan",
+                "images": [
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/gamelan/gamelan_1.png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/gamelan/gamelan_2.png",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/gamelan/gamelan_3.jpg",
+                    "https://raw.githubusercontent.com/ayuasrini-hub/wayang-api/refs/heads/main/images/gamelan/gamelan_4.png"
+                ],
+                "description": "Gamelan adalah ansambel musik tradisional Indonesia yang terdiri dari berbagai instrumen perkusi, membranofon, dan logam, seperti gong, kenong, bonang, saron, gender, kendang, dan ceng-ceng. Gamelan berperan sebagai pengiring utama dalam pertunjukan seni tradisional, termasuk wayang, tari, dan upacara keagamaan. Selain fungsi musik, gamelan memiliki makna filosofis dan spiritual, karena setiap alat, nada, dan ritmenya diatur untuk menciptakan harmoni dan keseimbangan, mencerminkan konsep rwa bhineda (keseimbangan antara baik dan buruk) dalam kehidupan. Dalam pertunjukan wayang, gamelan tidak only mengiringi adegan dan dialog, tetapi juga membangun suasana emosional, menandai perubahan tempo cerita, dan menekankan nilai moral maupun spiritual yang disampaikan oleh dalang. Di Bali, gamelan memiliki variasi khusus seperti Gamelan Gender Wayang untuk pertunjukan wayang kulit dan Gamelan Gong Kebyar untuk upacara dan hiburan, sementara di Jawa terdapat Gamelan Jawa yang halus dan melodius, digunakan untuk Wayang Kulit dan Wayang Orang. Gamelan menjadi simbol kekayaan budaya, seni, dan filosofi kehidupan Nusantara yang terus dilestarikan hingga kini."
+            }
+        ]
     }
 ]
